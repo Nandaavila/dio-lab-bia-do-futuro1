@@ -1,0 +1,5 @@
+codigo,nome,tipo,preco_cota,p_vp,dividend_yield
+FTCO11,Fundo Tijolo Comercial,Tijolo,90.00,0.90,0.8
+FPIP11,Fundo Papel Investimentos,Papel,102.00,1.02,1.1
+FLOG11,Fundo Logística Brasil,Tijolo,100.00,1.00,0.75
+FOFX11,Fundo de Fundos Alpha,FoF,85.50,0.95,0.9
